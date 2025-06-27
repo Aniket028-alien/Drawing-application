@@ -11,7 +11,7 @@ A lightweight and interactive drawing application built using Python's `tkinter`
 
 ## 🖼️ Preview
 
-Drawing app.png
+    Drawing-application/Drawing app.png
 
 
 ## 🚀 How to Run
